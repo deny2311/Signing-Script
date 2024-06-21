@@ -8,7 +8,7 @@ This script only works for password-less keys (DO NOT SET A PASSWORD) *This is d
 
 ## How to use
 
-1. Run this 
+1. Run this script in your root build directory
 
 ```bash
 bash <(curl -s https://raw.githubusercontent.com/Envoy-Z-Lab/Signing-Script/blob/main/keygen.sh)
