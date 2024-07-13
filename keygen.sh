@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Define the subject line
-subject='/C=US/ST=California/L=Mountain View/O=Android/OU=Android/CN=Android/emailAddress=android@android.com'
+subject='/C=ID/ST=Indonesia/L=Malang/O=Deny2311/OU=Deny2311/CN=Deny2311/emailAddress=deny2311@gmail.com'
 
 # Print the subject line
 echo "Using Subject Line:"
